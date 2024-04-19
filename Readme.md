@@ -1,4 +1,4 @@
-![logo](https://github.com/YassineOUAHMANE/Yassine-OUAHMANE/blob/main/1691173384667.jpg)
+![logo](https://github.com/YassineOUAHMANE/YassineOUAHMANE/blob/main/1691173384667.jpg)
 <h1 align="center">Hi 👋, I'm Yassine OUAHMANE</h1>
 <h3 align="center">🔍💡 Data explorer & AI enthusiast! Let's solve real-world challenges together. Check out my GitHub for the journey! 🚀💻</h3>
 
