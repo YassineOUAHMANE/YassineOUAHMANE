@@ -14,8 +14,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/yassine ouahmane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yassine ouahmane" height="30" width="40" /></a>
-<a href="https://kaggle.com/yassineouahamne123!" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="yassineouahamne123!" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/yassine-ouahmane-8a15b6238/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yassine ouahmane" height="30" width="40" /></a>
+<a href="https://kaggle.com/yassineouahmane123!" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="yassineouahmane123!" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/yassine ouahmane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="yassine ouahmane" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/yassinebbb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="yassinebbb" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/yassine ouahmane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yassine ouahmane" height="30" width="40" /></a>
