@@ -1,14 +1,23 @@
 ![logo](https://github.com/YassineOUAHMANE/YassineOUAHMANE/blob/main/1691173384667.jpg)
-<h1 align="center">Hi 👋, I'm Yassine OUAHMANE</h1>
+
+## 😄 About Me:
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=I'm+Yassine+OUAHMANE+😁;Data+Engineer+⚙️;&center=true&width=900&height=50" alt="Typing animation showing my roles and certifications">
+  </a>
+</p>
 <h3 align="center">🔍💡 Data explorer & AI enthusiast! Let's solve real-world challenges together. Check out my GitHub for the journey! 🚀💻</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yassineouahmane&label=Profile%20views&color=0e75b6&style=flat" alt="yassineouahmane" /> </p>
 
+- 🧠 Create projects in the realms of *Data* and *Artificial Intelligence* 
 - 📝 I regularly write articles on [Latex](Latex)
-
-- 📫 How to reach me **yassineouahmane2002@gmail.com**
-
 - ⚡ Fun fact **I want always to be the best !**
+
+##💼Work Experience:
+- **Data Engineer Intern** at `2Peerfect`, Rabat, Morocco (2 months)
+
 
 <img align="right" alt="Dealing with Data" width="400" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
