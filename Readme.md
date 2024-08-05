@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Welcome+to+my+Github+account+😁;(☞ﾟヮﾟ)☞+I'm+Yassine+OUAHMANE+☜(ﾟヮﾟ☜);Data+Engineer+⚙️;🌟+Enthusiastic+Machine+Learning+AI+Specialist+🌟&center=true&width=900&height=50" alt="Typing animation showing my roles and certifications">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Welcome+to+my+Github+account+😁;(☞ﾟヮﾟ)☞+I'm+Yassine+OUAHMANE+☜(ﾟヮﾟ☜);Data+Engineer+⚙️;🌟+AI+Machine+Learning+Aficionado+🌟&center=true&width=900&height=50" alt="Typing animation showing my roles and certifications">
   </a>
 </p>
 <h3 align="center">🔍💡 Data explorer & AI enthusiast! Let's solve real-world challenges together. Check out my GitHub for the journey! 🚀💻</h3>
