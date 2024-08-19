@@ -18,8 +18,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yassineouahmane&label=Profile%20views&color=0e75b6&style=flat" alt="yassineouahmane" /> </p>
 
 - 🧠 Create projects in the realms of *Data* and *Artificial Intelligence* 
-- 📝 I regularly write articles on [Latex](Latex)
-- ⚡ Fun fact **I want always to be the best !**
+- 📝 I regularly write articles using [Latex](Latex)
+- ⚡ **Think out of the box!**
 
 ## 💼Work Experience:
 - **Data Engineer Intern** at `2Peerfect`, Rabat, Morocco (2 months)
