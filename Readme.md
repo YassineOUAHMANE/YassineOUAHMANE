@@ -20,7 +20,6 @@
 </p>
 
 🎓 I am currently pursuing a degree in **Data Engineering** at Morocco's **National Institute of Posts and Telecommunications**.          
-
 🧠 I work on projects in the realms of **Data Science** and **Artificial Intelligence**.  
 📝 I regularly write articles using **[LaTeX](https://www.latex-project.org/)**.  
 ✍️ In my spare time, I am passionate about **competitive programming** and **problem-solving**.  
