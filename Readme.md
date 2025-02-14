@@ -1,11 +1,4 @@
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Welcome+to+my+Github+account+😁;(☞ﾟヮﾟ)☞+I'm+Yassine+OUAHMANE+☜(ﾟヮﾟ☜);Data+Engineer+⚙️;🌟+AI+Machine+Learning+Aficionado+🌟&center=true&width=900&height=50" alt="Typing animation showing my roles and certifications">
-  </a>
-</p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yassineouahmane&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+
 <p align="center">
   <img src="https://github.com/YassineOUAHMANE/YassineOUAHMANE/blob/main/pixlr-image-generator-8577f5a3-3642-408a-8ceb-10d9118bba39.png" width="70%" />
 </p>
@@ -15,10 +8,14 @@
 </blockquote>
 
 ## 😄 About Me:
-
-<h3 align="center">🔍💡 Data explorer & AI enthusiast! Let's solve real-world challenges together. Check out my GitHub for the journey! 🚀💻</h3>
-
-
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Welcome+to+my+Github+account+😁;(☞ﾟヮﾟ)☞+I'm+Yassine+OUAHMANE+☜(ﾟヮﾟ☜);Data+Engineer+⚙️;🌟+AI+Machine+Learning+Aficionado+🌟&center=true&width=900&height=50" alt="Typing animation showing my roles and certifications">
+  </a>
+</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yassineouahmane&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
 🎓 I am currently pursuing a degree in **Data Engineering** at Morocco's **National Institute of Posts and Telecommunications**.          
 🧠 I work on projects in the realms of **Data Science** and **Artificial Intelligence**.  
