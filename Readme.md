@@ -17,9 +17,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yassineouahmane&label=Profile%20views&color=0e75b6&style=flat" alt="yassineouahmane" /> </p>
 - 🎓 I am currently pursuing a degree in Data engineering at Morocco's National Institute of Posts and Telecommunications in Rabat.
-- 🧠 Create projects in the realms of *Data* and *Artificial Intelligence* 
+
+- 🧠 Create projects in the realms of *Data* and *Artificial Intelligence*
+- 
 - 📝 I regularly write articles using [Latex](Latex)
+- 
 - ✍️ In my spare time, I am very interested in competitive programming and problem solving.
+- 
 - ⚡ **Think out of the box!**
 
 ## 💼Work Experience:
