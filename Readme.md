@@ -8,9 +8,10 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Welcome+to+my+Github+account+😁;(☞ﾟヮﾟ)☞+I'm+Yassine+OUAHMANE+☜(ﾟヮﾟ☜);Data+Engineer+⚙️;🌟+AI+Machine+Learning+Aficionado+🌟&center=true&width=900&height=50" alt="Typing animation showing my roles and certifications">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=👋+Hello,+Welcome+to+my+Profile!;I'm+Yassine+OUAHMANE!;Data+Engineer+⚙️;AI+Machine+Learning+Aficionado+🌟&center=true&width=900&height=50" alt="Hello animation">
   </a>
 </p>
+
 <h3 align="center">🔍💡 Data explorer & AI enthusiast! Let's solve real-world challenges together. Check out my GitHub for the journey! 🚀💻</h3>
 
 <p align="center">
@@ -38,20 +39,15 @@
 <a href="https://leetcode.com/Yassineouahmane/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yassine ouahmane" height="30" width="40" /></a>
 </p>
 
-## 📊 GitHub Stats & Animations:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yassineouahmane&show_icons=true&locale=en" alt="GitHub Stats" width="450" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yassineouahmane&" alt="GitHub Streak" width="450" />
-</p>
-
+## 📊 GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yassineouahmane&show_icons=true&locale=en&layout=compact" alt="Top Languages" width="450" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YassineOUAHMANE/YassineOUAHMANE/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yassineouahmane&show_icons=true&locale=en" alt="GitHub Stats" width="450" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Thanks+for+visiting!+😊;Happy+Coding!+🚀&center=true&width=700&height=50&color=00FF00&vCenter=true" alt="Thanks Message">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yassineouahmane&" alt="GitHub Streak" width="450" />
 </p>
