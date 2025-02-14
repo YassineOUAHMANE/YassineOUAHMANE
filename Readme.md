@@ -46,21 +46,22 @@
 
 <p align="center">
   <a href="https://github.com/YassineOUAHMANE">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YassineOUAHMANE&show_icons=true&theme=blueberry&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YassineOUAHMANE&layout=compact&langs_count=10&theme=blueberry"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YassineOUAHMANE&show_icons=true&theme=ocean&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YassineOUAHMANE&layout=compact&langs_count=10&theme=ocean"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/YassineOUAHMANE">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YassineOUAHMANE&theme=blueberry"/>
-    <img src="https://github-profile-trophy.vercel.app/?username=YassineOUAHMANE&theme=blueberry&no-frame=true&row=1&column=7" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YassineOUAHMANE&theme=ocean"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=YassineOUAHMANE&theme=ocean&no-frame=true&row=1&column=7" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/YassineOUAHMANE">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=YassineOUAHMANE&theme=blueberry"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=YassineOUAHMANE&theme=ocean"/>
   </a>
 </p>
+
 
