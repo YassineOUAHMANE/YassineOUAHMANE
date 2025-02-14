@@ -47,4 +47,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yassineouahmane&show_icons=true&locale=en" alt="yassineouahmane" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yassineouahmane&" alt="yassineouahmane" /></p>     could you  make this readme more intresting with colors and animations + i want profile veiw to be in the middle
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yassineouahmane&" alt="yassineouahmane" /></p>     
