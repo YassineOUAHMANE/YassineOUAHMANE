@@ -25,7 +25,7 @@
 
 ## 💼 Work Experience:
 - **Data Engineer Intern** at `2Peerfect`, Rabat, Morocco (2 months)
-- **Data Analyst Intern** at `Mentorness`, Remote, Inde (1 mounths)
+- **Data Analyst Intern** at `Mentorness`, Remote, Inde (1 month)
 
 
 
@@ -46,20 +46,21 @@
 
 <p align="center">
   <a href="https://github.com/YassineOUAHMANE">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YassineOUAHMANE&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YassineOUAHMANE&layout=compact&langs_count=10&theme=tokyonight"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YassineOUAHMANE&show_icons=true&theme=blueberry&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YassineOUAHMANE&layout=compact&langs_count=10&theme=blueberry"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/YassineOUAHMANE">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YassineOUAHMANE&theme=tokyonight"/>
-    <img src="https://github-profile-trophy.vercel.app/?username=YassineOUAHMANE&theme=tokyonight&no-frame=true&row=1&column=7" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YassineOUAHMANE&theme=blueberry"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=YassineOUAHMANE&theme=blueberry&no-frame=true&row=1&column=7" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/YassineOUAHMANE">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=YassineOUAHMANE&theme=tokyonight"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=YassineOUAHMANE&theme=blueberry"/>
   </a>
 </p>
+
