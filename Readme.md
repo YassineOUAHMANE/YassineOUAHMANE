@@ -15,11 +15,15 @@
 </p>
 <h3 align="center">🔍💡 Data explorer & AI enthusiast! Let's solve real-world challenges together. Check out my GitHub for the journey! 🚀💻</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yassineouahmane&label=Profile%20views&color=0e75b6&style=flat" alt="yassineouahmane" /> </p>
- 🎓 I am currently pursuing a degree in Data engineering at Morocco's National Institute of Posts and Telecommunications in Rabat.
- 🧠 Create projects in the realms of *Data* and *Artificial Intelligence* 
- 📝 I regularly write articles using [Latex](Latex)
- ✍️ In my spare time, I am very interested in competitive programming and problem solving.
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=yassineouahmane&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
+🎓 I am currently pursuing a degree in **Data Engineering** at Morocco's **National Institute of Posts and Telecommunications** in Rabat. 
+🧠 I work on projects in the realms of **Data Science** and **Artificial Intelligence**.  
+📝 I regularly write articles using **[LaTeX](https://www.latex-project.org/)**.  
+✍️ In my spare time, I am passionate about **competitive programming** and **problem-solving**.  
+
 
 ## 💼Work Experience:
 - **Data Engineer Intern** at `2Peerfect`, Rabat, Morocco (2 months)
