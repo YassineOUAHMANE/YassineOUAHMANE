@@ -17,8 +17,7 @@
   <img src="https://komarev.com/ghpvc/?username=yassineouahmane&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-🎓  Recently, I moved to France to undertake a double degree program at **ENSIMAG**.
-
+🎓  Recently, I moved to France to undertake a double degree program at **ENSIMAG**.  
 🎓 I am currently pursuing a degree in **Data Engineering** at Morocco's **National Institute of Posts and Telecommunications**.          
 🧠 I work on projects in the realms of **Data Science** and **Artificial Intelligence**.  
 📝 I regularly write articles using **[LaTeX](https://www.latex-project.org/)**.  
