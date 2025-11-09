@@ -25,8 +25,9 @@
 
 
 ## 💼 Work Experience:
+- **Data Engineer & BI Analyst Intern** at `Centrale Danone`, Rabat, Morocco (2 months)
 - **Data Engineer Intern** at `2Peerfect`, Rabat, Morocco (2 months)
-- **Data Analyst Intern** at `Mentorness`, Remote, Inde (1 month)
+- **Data Analyst Intern** at `Mentorness`, Remote, Inde (5 month)
 
 
 
