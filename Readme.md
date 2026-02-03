@@ -10,7 +10,7 @@
 ## 😄 About Me:
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Welcome+to+my+Github+account+😁;(☞ﾟヮﾟ)☞+I'm+Yassine+OUAHMANE+☜(ﾟヮﾟ☜);Data+Engineer+⚙️;🌟+AI+Machine+Learning+Aficionado+🌟&center=true&width=900&height=50" alt="Typing animation showing my roles and certifications">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Welcome+to+my+Github+account+😁;(☞ﾟヮﾟ)☞+I'm+Yassine+OUAHMANE+☜(ﾟヮﾟ☜);Data+Engineer+⚙️;🌟+Building+Software+🌟&center=true&width=900&height=50" alt="Typing animation showing my roles and certifications">
   </a>
 </p>
 <p align="center">
