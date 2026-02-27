@@ -32,8 +32,8 @@
 ## 🏅 **Certifications** *(2x AWS Certified)*
 
 ### 🟧 **Amazon Web Services (AWS) Certifications**
-- [![AWS Cloud Practitioner](https://img.shields.io/badge/AWS-Cloud_Practitioner-orange)]**AWzS Certified Cloud Practitioner**
-- [![AWS Data Engineer](https://img.shields.io/badge/AWS-Data_Engineer_Associate-orange)]**AWS Certified Data Engineer – Associate**
+- ![AWS Cloud Practitioner](https://img.shields.io/badge/AWS-Cloud_Practitioner-orange)**AWzS Certified Cloud Practitioner**
+- ![AWS Data Engineer](https://img.shields.io/badge/AWS-Data_Engineer_Associate-orange)**AWS Certified Data Engineer – Associate**
 
 ## 🌟 Top `4` Repositories
 
