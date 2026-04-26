@@ -34,10 +34,10 @@
 ### 🤖 Generative AI & Agentic Workflows (LLMOps)
 <table>
   <tr>
-    <td align="center"><a href="https://www.langchain.com/langgraph"><img src="https://raw.githubusercontent.com/langchain-ai/langgraph/main/docs/docs/static/img/langgraph_logo.png" width="40" height="40"/><br />LangGraph</a></td>
-    <td align="center"><a href="https://www.langchain.com/langsmith"><img src="https://v0.dev/placeholder.svg?height=40&width=40&text=LS" width="40" height="40"/><br />LangSmith</a></td>
-    <td align="center"><a href="https://python.langchain.com/"><img src="https://raw.githubusercontent.com/langchain-ai/langchain/master/docs/docs/static/img/langchain_logo.png" width="40" height="40"/><br />LangChain</a></td>
-    <td align="center"><a href="https://www.mistral.ai/"><img src="https://v0.dev/placeholder.svg?height=40&width=40&text=M" width="40" height="40"/><br />Mistral AI</a></td>
+    <td align="center"><a href="https://www.langchain.com/langgraph"><img src="https://raw.githubusercontent.com/YassineOUAHMANE/YassineOUAHMANE/main/langgraph.png" width="40" height="40"/><br />LangGraph</a></td>
+    <td align="center"><a href="https://www.langchain.com/langsmith"><img src="https://www.langchain.com/favicon.ico" width="40" height="40"/><br />LangSmith</a></td>
+    <td align="center"><a href="https://python.langchain.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/langchain/langchain-original.svg" width="40" height="40"/><br />LangChain</a></td>
+    <td align="center"><a href="https://www.mistral.ai/"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/mistralai.svg" width="40" height="40"/><br />Mistral AI</a></td>
     <td align="center"><a href="https://qdrant.tech/"><img src="https://raw.githubusercontent.com/qdrant/qdrant/master/docs/logo.svg" width="40" height="40"/><br />Qdrant</a></td>
     <td align="center"><a href="https://openai.com/"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/openai.svg" width="40" height="40"/><br />OpenAI</a></td>
   </tr>
