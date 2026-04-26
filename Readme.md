@@ -18,12 +18,12 @@
 - 🎓 Currently pursuing a degree in **Data Engineering** at Morocco's **National Institute of Posts and Telecommunications**.
 - 🧠 Working on projects in the realms of **Data Science** and **Artificial Intelligence**.
 - 📝 Regularly writing articles using **[LaTeX](https://www.latex-project.org/)**.
-- ✍️ In my spare time, passionate about **competitive programming** and **problem-solving**.
+- ✍️ In my spare time, passionné par la **programmation compétitive** et le **problem-solving**.
 
 ---
 
 ## 💼 Work Experience:
-- **Software Engineer** at `Air Liquide`, Grenoble, France (6 months)
+- **Software Engineer (Data / Platform)** at `Air Liquide`, Grenoble, France (6 months)
 - **Data Engineer** at `Centrale Danone`, Rabat, Morocco (2 months)
 - **Data Engineer** at `2Peerfect`, Rabat, Morocco (2 months)
 - **Data Analyst** at `Mentorness`, Remote, India (5 months)
@@ -31,80 +31,65 @@
 ---
 
 ## 📊 Languages and Tools:
+
 ### 🤖 Generative AI & Agentic Workflows (LLMOps)
-<table>
-  <tr>
-    <td align="center"><a href="https://www.langchain.com/langgraph"><img src="https://raw.githubusercontent.com/YassineOUAHMANE/YassineOUAHMANE/main/langgraph.png" width="40" height="40"/><br />LangGraph</a></td>
-    <td align="center"><a href="https://www.langchain.com/langsmith"><img src="https://www.langchain.com/favicon.ico" width="40" height="40"/><br />LangSmith</a></td>
-    <td align="center"><a href="https://python.langchain.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/langchain/langchain-original.svg" width="40" height="40"/><br />LangChain</a></td>
-    <td align="center"><a href="https://www.mistral.ai/"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/mistralai.svg" width="40" height="40"/><br />Mistral AI</a></td>
-    <td align="center"><a href="https://qdrant.tech/"><img src="https://raw.githubusercontent.com/qdrant/qdrant/master/docs/logo.svg" width="40" height="40"/><br />Qdrant</a></td>
-    <td align="center"><a href="https://openai.com/"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/openai.svg" width="40" height="40"/><br />OpenAI</a></td>
-  </tr>
-</table>
+<p align="left">
+  <img src="https://img.shields.io/badge/LangGraph-003DFF?style=for-the-badge&logo=chainlink&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangSmith-01D1B2?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" />
+  <img src="https://img.shields.io/badge/Mistral_AI-FFD700?style=for-the-badge&logo=maas&logoColor=black" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Qdrant-FF4136?style=for-the-badge&logo=qdrant&logoColor=white" />
+</p>
 
 ### ⚙️ Data Engineering & Backend
-<table>
-  <tr>
-    <td><a href="https://kafka.apache.org/"><img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" width="40" height="40"/></a></td>
-    <td><a href="https://spark.apache.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachespark/apachespark-original.svg" width="40" height="40"/></a></td>
-    <td><a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></a></td>
-    <td><a href="https://pytorch.org/"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" height="40"/></a></td>
-    <td><a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/></a></td>
-    <td><a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/></a></td>
-    <td><a href="https://hadoop.apache.org/"><img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" width="40" height="40"/></a></td>
-    <td><a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/></a></td>
-    <td><a href="https://www.java.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/></a></td>
-    <td><a href="https://www.linux.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/></a></td>
-  </tr>
-</table>
-
-<br>
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+</p>
 
 ---
 
 ## 🏅 Certifications
-
-### 🟧 Amazon Web Services (AWS)
-- ![AWS Cloud Practitioner](https://img.shields.io/badge/AWS-Cloud_Practitioner-orange) **AWS Certified Cloud Practitioner**
-- ![AWS Data Engineer](https://img.shields.io/badge/AWS-Data_Engineer_Associate-orange) **AWS Certified Data Engineer – Associate**
+- ![AWS Cloud Practitioner](https://img.shields.io/badge/AWS-Cloud_Practitioner-orange?style=flat-square&logo=amazon-aws) **AWS Certified Cloud Practitioner**
+- ![AWS Data Engineer](https://img.shields.io/badge/AWS-Data_Engineer_Associate-orange?style=flat-square&logo=amazon-aws) **AWS Certified Data Engineer – Associate**
 
 ---
 
 ## 🌟 Top `4` Repositories
 
-### 1. `DistribuFlow-Real-Time` - Cyber Attack Detection 🛡️
-- **Repository:** [DistribuFlow-Real-Time](https://github.com/YassineOUAHMANE/DistribuFlow-Real-Time)
-> Description: Un système **streaming cloud-native** 🌐 qui ingère des données réseau via **Kafka**, les agrège avec **Spark**, et utilise le **Machine Learning** pour classifier les attaques cyber en temps réel 🚨. Déployé sur **GCP** avec **Kubernetes** et monitoring via **Prometheus/Grafana**.
+### 1. `DistribuFlow-Real-Time` 🛡️
+- **Repo:** [DistribuFlow-Real-Time](https://github.com/YassineOUAHMANE/DistribuFlow-Real-Time)
+> Détection d'attaques cyber en temps réel via **Kafka**, **Spark** et **Machine Learning**. Déployé sur **Kubernetes**.
 
-### 2. `RecruitAI` - Intelligent Recruitment Assistant 🤖
-- **Repository:** [RecruitAI](https://github.com/YassineOUAHMANE/RecruitAI)
-> Description: Un assistant de recrutement intelligent 🧠 qui analyse les bases de données de CV et identifie instantanément les meilleurs profils. Utilise les **LLM** et le **RAG** pour chercher, comparer et classer les candidats via un chatbot interactif.
+### 2. `RecruitAI` 🤖
+- **Repo:** [RecruitAI](https://github.com/YassineOUAHMANE/RecruitAI)
+> Assistant RH utilisant **LangGraph** pour orchestrer des agents IA, **Mistral** et **Qdrant** pour le RAG.
 
-### 3. `Distributed-Make` - Distributed Systems Testing ⚙️
-- **Repository:** [Distributed-Make](https://github.com/YassineOUAHMANE/Distributed-Make)
-> Description: Projet sur les systèmes distribués incluant des tests de performance (**PingPong**, **WordCount**) sur **Grid5000** 🔬 pour évaluer la fiabilité et la latence des environnements de calcul distribué.
+### 3. `Distributed-Make` ⚙️
+- **Repo:** [Distributed-Make](https://github.com/YassineOUAHMANE/Distributed-Make)
+> Tests de performance système sur **Grid5000** (latence, WordCount distribué).
 
-### 4. `Stock Sentiment Analysis Dashboard` 📈
-- **Repository:** [Stock-Sentiment-Analysis-Dashboard](https://github.com/YassineOUAHMANE/Stock-Sentiment-Analysis-Dashboard)
-> Description: Une application web **Streamlit** 📊 qui récupère les actualités financières et les données boursières pour aider à la décision d'investissement. Combine **analyse de sentiment (NLP)** et métriques en temps réel.
+### 4. `Stock Sentiment Analysis` 📈
+- **Repo:** [Stock-Sentiment-Analysis-Dashboard](https://github.com/YassineOUAHMANE/Stock-Sentiment-Analysis-Dashboard)
+> Dashboard Streamlit corrélant le sentiment des news financières et les cours de bourse.
 
 ---
 
 ## 🙌 Connect with Me:
-<table align="center">
-  <tr>
-    <td><a href="https://www.linkedin.com/in/yassine-ouahmane-8a15b6238/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40"/></a></td>
-    <td><a href="https://kaggle.com/yassineouahmane123!" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kaggle" height="30" width="40"/></a></td>
-    <td><a href="https://www.hackerrank.com/profile/yassineouahmane1" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hackerrank" height="30" width="40"/></a></td>
-    <td><a href="https://codeforces.com/profile/yassinebbb" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="codeforces" height="30" width="40"/></a></td>
-    <td><a href="https://leetcode.com/Yassineouahmane/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30" width="40"/></a></td>
-  </tr>
-</table>
-
 <p align="center">
-  Let's make something innovative together! Feel free to reach out for collaborations or discussions in Data & AI!
+  <a href="https://www.linkedin.com/in/yassine-ouahmane-8a15b6238/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://kaggle.com/yassineouahmane123!"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
+  <a href="https://leetcode.com/Yassineouahmane/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
 </p>
 
-## 🔄 Last Updated:
-- README last updated on **27/04/2026**.
+<p align="center">
+  Let's make something innovative together!
+</p>
