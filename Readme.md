@@ -23,7 +23,7 @@
 ---
 
 ## 💼 Work Experience:
-- **Software Engineer (Data / Platform)** at `Air Liquide`, Grenoble, France (6 months)
+- **Software Engineer** at `Air Liquide`, Grenoble, France (6 months)
 - **Data Engineer** at `Centrale Danone`, Rabat, Morocco (2 months)
 - **Data Engineer** at `2Peerfect`, Rabat, Morocco (2 months)
 - **Data Analyst** at `Mentorness`, Remote, India (5 months)
