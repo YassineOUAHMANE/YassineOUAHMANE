@@ -61,15 +61,23 @@
 
 ---
 
-## 🌟 Top Repositories
+## 🌟 Top `4` Repositories
 
-### 1. `DistribuFlow-Real-Time` 🛡️
-- **Repo:** [DistribuFlow-Real-Time](https://github.com/YassineOUAHMANE/DistribuFlow-Real-Time)
-> Système streaming cloud-native pour la détection d'attaques cyber via Kafka et Spark sur Kubernetes.
+### 1. `DistribuFlow-Real-Time` - Cyber Attack Detection 🛡️
+- **Repository:** [DistribuFlow-Real-Time](https://github.com/YassineOUAHMANE/DistribuFlow-Real-Time)
+> Description: Un système **streaming cloud-native** 🌐 qui ingère des données réseau via **Kafka**, les agrège avec **Spark**, et utilise le **Machine Learning** pour classifier les attaques cyber en temps réel 🚨. Déployé sur **GCP** avec **Kubernetes** et monitoring via **Prometheus/Grafana**.
 
-### 2. `RecruitAI` 🤖
-- **Repo:** [RecruitAI](https://github.com/YassineOUAHMANE/RecruitAI)
-> Assistant RH intelligent utilisant LLM et RAG pour l'analyse et le matching de CV.
+### 2. `RecruitAI` - Intelligent Recruitment Assistant 🤖
+- **Repository:** [RecruitAI](https://github.com/YassineOUAHMANE/RecruitAI)
+> Description: Un assistant de recrutement intelligent 🧠 qui analyse les bases de données de CV et identifie instantanément les meilleurs profils. Utilise les **LLM** et le **RAG** pour chercher, comparer et classer les candidats via un chatbot interactif.
+
+### 3. `Distributed-Make` - Distributed Systems Testing ⚙️
+- **Repository:** [Distributed-Make](https://github.com/YassineOUAHMANE/Distributed-Make)
+> Description: Projet sur les systèmes distribués incluant des tests de performance (**PingPong**, **WordCount**) sur **Grid5000** 🔬 pour évaluer la fiabilité et la latence des environnements de calcul distribué.
+
+### 4. `Stock Sentiment Analysis Dashboard` 📈
+- **Repository:** [Stock-Sentiment-Analysis-Dashboard](https://github.com/YassineOUAHMANE/Stock-Sentiment-Analysis-Dashboard)
+> Description: Une application web **Streamlit** 📊 qui récupère les actualités financières et les données boursières pour aider à la décision d'investissement. Combine **analyse de sentiment (NLP)** et métriques en temps réel.
 
 ---
 
@@ -89,4 +97,4 @@
 </p>
 
 ## 🔄 Last Updated:
-- README last updated on **27/02/2026**.
+- README last updated on **27/04/2026**.
