@@ -18,7 +18,7 @@
 - 🎓 Currently pursuing a degree in **Data Engineering** at Morocco's **National Institute of Posts and Telecommunications**.
 - 🧠 Working on projects in the realms of **Data Science** and **Artificial Intelligence**.
 - 📝 Regularly writing articles using **[LaTeX](https://www.latex-project.org/)**.
-- ✍️ In my spare time, passionné par la **programmation compétitive** et le **problem-solving**.
+- ✍️ Passionate about **competitive programming** and **problem-solving**.
 
 ---
 
@@ -45,14 +45,14 @@
 ### ⚙️ Data Engineering & Backend
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white" />
   <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white" />
   <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
 </p>
 
 ---
@@ -67,26 +67,25 @@
 
 ### 1. `DistribuFlow-Real-Time` 🛡️
 - **Repo:** [DistribuFlow-Real-Time](https://github.com/YassineOUAHMANE/DistribuFlow-Real-Time)
-> Détection d'attaques cyber en temps réel via **Kafka**, **Spark** et **Machine Learning**. Déployé sur **Kubernetes**.
+> **Real-time cyber attack detection** system using a cloud-native streaming architecture. Built with **Kafka** for ingestion, **Spark** for aggregation, and **Machine Learning** for classification. Fully orchestrated on **Kubernetes** with Prometheus/Grafana monitoring.
 
 ### 2. `RecruitAI` 🤖
 - **Repo:** [RecruitAI](https://github.com/YassineOUAHMANE/RecruitAI)
-> Assistant RH utilisant **LangGraph** pour orchestrer des agents IA, **Mistral** et **Qdrant** pour le RAG.
+> An **Intelligent HR Assistant** that automates candidate screening. It leverages **LangGraph** for multi-agent orchestration, **Mistral AI** for extraction, and **Qdrant** vector database for high-performance RAG (Retrieval-Augmented Generation).
 
 ### 3. `Distributed-Make` ⚙️
 - **Repo:** [Distributed-Make](https://github.com/YassineOUAHMANE/Distributed-Make)
-> Tests de performance système sur **Grid5000** (latence, WordCount distribué).
+> A distributed systems laboratory project focused on performance benchmarking. Evaluates network latency and throughput using **PingPong** and **WordCount** workloads across **Grid5000** clusters.
 
 ### 4. `Stock Sentiment Analysis` 📈
 - **Repo:** [Stock-Sentiment-Analysis-Dashboard](https://github.com/YassineOUAHMANE/Stock-Sentiment-Analysis-Dashboard)
-> Dashboard Streamlit corrélant le sentiment des news financières et les cours de bourse.
+> A financial intelligence dashboard built with **Streamlit**. It performs **NLP sentiment analysis** on live financial news to provide a correlation between media trends and real-time stock market movements.
 
 ---
 
 ## 🙌 Connect with Me:
 <p align="center">
   <a href="https://www.linkedin.com/in/yassine-ouahmane-8a15b6238/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://kaggle.com/yassineouahmane123!"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
   <a href="https://leetcode.com/Yassineouahmane/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
 </p>
 
