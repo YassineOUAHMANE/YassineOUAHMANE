@@ -1,4 +1,4 @@
-![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2FYassineOUAHMANE&label=&icon=github&color=%23198754&message=&style=flat&tz=UTC)
+![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2FYassineOUAHMANE&label=Views&icon=github&color=%23198754&message=&style=flat&tz=UTC)
 <p align="center">
   <img src="https://github.com/YassineOUAHMANE/YassineOUAHMANE/blob/main/pixlr-image-generator-8577f5a3-3642-408a-8ceb-10d9118bba39.png" width="70%" />
 </p>
