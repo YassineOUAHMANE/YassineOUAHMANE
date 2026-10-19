@@ -60,7 +60,7 @@
 
 ## 🏅 Certifications
 - ![AWS Cloud Practitioner](https://img.shields.io/badge/AWS-Cloud_Practitioner-orange?style=flat-square&logo=amazon-aws) **AWS Certified Cloud Practitioner**
-- ![AWS Data Engineer](https://img.shields.io/badge/AWS-Data_Engineer_Associate-orange?style=flat-square&logo=amazon-aws) **AWS Certified Data Engineer – Associate**
+- ![AWS Data Engineer](https://img.shields.io/badge/AWS-Data_Engineer_Associate-orange?style=flat-square&logo=amazon-aws) **AWS Certified Data Engineer – Associate(Ongoing)**
 
 ---
 
